@@ -15,5 +15,10 @@ class derivedClass : public baseClass {
         }
 };
 
+int main() {
+    budi a(12);
 
+    return 0;
+
+}
 
