@@ -19,3 +19,7 @@ class pekerja : virtual public orang {
 	cout << "pekerja dibuat\n" << endl;
 	}
 };
+
+class pelajar : virtual public orang {
+    
+}
